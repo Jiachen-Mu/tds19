@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 # 导入sns包
 import seaborn as sns
 # 调用泰坦尼克数据集
